@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibValidatorUnitTest", "BookLibValidatorUnitTest\BookLibValidatorUnitTest.csproj", "{852B7726-A5AA-470E-AD53-5D8E005477B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibValidatorUnitTestTests", "BookLibValidatorUnitTestTests\BookLibValidatorUnitTestTests.csproj", "{EE5154FD-A424-4264-BFC7-27C33FAFEE72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852B7726-A5AA-470E-AD53-5D8E005477B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852B7726-A5AA-470E-AD53-5D8E005477B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852B7726-A5AA-470E-AD53-5D8E005477B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852B7726-A5AA-470E-AD53-5D8E005477B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5154FD-A424-4264-BFC7-27C33FAFEE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5154FD-A424-4264-BFC7-27C33FAFEE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5154FD-A424-4264-BFC7-27C33FAFEE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5154FD-A424-4264-BFC7-27C33FAFEE72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8092A55B-82D8-4DD6-B797-41A606DECBD8}
+	EndGlobalSection
+EndGlobal
